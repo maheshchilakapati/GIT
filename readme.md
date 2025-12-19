@@ -1,3 +1,2 @@
-## welcome to Git!
-this is coming from 'dev-mahesh'
+## hello,git!
 i am adding this from 'practice'
